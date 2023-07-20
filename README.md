@@ -2,8 +2,8 @@
 
 
 1. Replit'e kayıt olun. - https://Replit.com
-
-2. Discord tokeninizi kopyalayın:
+2. çalıştırın : replit.com/new/github/ToweOPrO/tutmali
+3. Discord tokeninizi kopyalayın:
 
 3. Nasılmı? ^
   - Tarayıcınızdan discorda giriş yapın.
